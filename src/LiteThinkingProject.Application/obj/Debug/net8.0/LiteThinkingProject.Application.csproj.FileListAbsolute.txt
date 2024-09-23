@@ -1,0 +1,16 @@
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\bin\Debug\net8.0\LiteThinkingProject.Application.deps.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\bin\Debug\net8.0\LiteThinkingProject.Application.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\bin\Debug\net8.0\LiteThinkingProject.Application.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\bin\Debug\net8.0\LiteThinkingProject.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\bin\Debug\net8.0\LiteThinkingProject.Domain.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.csproj.AssemblyReference.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.AssemblyInfoInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.AssemblyInfo.cs
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.sourcelink.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThin.232344B9.Up2Date
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\refint\LiteThinkingProject.Application.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\LiteThinkingProject.Application.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Application\obj\Debug\net8.0\ref\LiteThinkingProject.Application.dll

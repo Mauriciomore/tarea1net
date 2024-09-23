@@ -1,0 +1,12 @@
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\bin\Debug\net8.0\LiteThinkingProject.Domain.deps.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\bin\Debug\net8.0\LiteThinkingProject.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\bin\Debug\net8.0\LiteThinkingProject.Domain.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\LiteThinkingProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\LiteThinkingProject.Domain.AssemblyInfoInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\LiteThinkingProject.Domain.AssemblyInfo.cs
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\LiteThinkingProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\LiteThinkingProject.Domain.sourcelink.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\LiteThinkingProject.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\refint\LiteThinkingProject.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\LiteThinkingProject.Domain.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Domain\obj\Debug\net8.0\ref\LiteThinkingProject.Domain.dll

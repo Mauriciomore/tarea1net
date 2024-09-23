@@ -1,0 +1,13 @@
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\bin\Debug\net8.0\LiteThinkingProject.Shared.deps.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\bin\Debug\net8.0\LiteThinkingProject.Shared.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\bin\Debug\net8.0\LiteThinkingProject.Shared.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.csproj.AssemblyReference.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.AssemblyInfoInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.AssemblyInfo.cs
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.sourcelink.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\refint\LiteThinkingProject.Shared.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\LiteThinkingProject.Shared.pdb
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\src\LiteThinkingProject.Shared\obj\Debug\net8.0\ref\LiteThinkingProject.Shared.dll
